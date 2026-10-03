@@ -1,0 +1,42 @@
+[
+  {
+    "param": "adv_click_id",
+    "postback_url": "http://fpb.bigflymobi.com/v1/api/postback?adv_click_id="
+  },
+  {
+    "param": "click_id",
+    "postback_url": "http://conversion.elementallink.co/conv?click_id="
+  },
+  {
+    "param": "click_id",
+    "postback_url": "http://callback.sandsmacao.net/callback?&click_id="
+  },
+  {
+    "param": "click_id",
+    "postback_url": "http://cycom.hopb1.com/notify/global/?click_id="
+  },
+  {
+    "param": "click_id",
+    "postback_url": "http://myfungo.hopb1.com/notify/global/?click_id="
+  },
+  {
+    "param": "tid",
+    "postback_url": "https://smartconnect.fusetracking.com/pb?tid="
+  },
+  {
+    "param": "clickid",
+    "postback_url": "http://t.vikingmedia.mobi/conver?clickid=&token=a9d4c08236611769"
+  },
+  {
+    "param": "click_id",
+    "postback_url": "https://tkconversion.bxgwebs.com/conversion?click_id=&unique_key=5cb54a9d5fae5150"
+  },
+  {
+    "param": "click_id",
+    "postback_url": "https://post.clickscot.com/acquisition?click_id=&security_token=36399a458c8980278778&gaid=&idfa="
+  },
+  {
+    "param": "clickid",
+    "postback_url": "http://cpipb.seanear.com/?adv=1000351&clickid="
+  }
+]
